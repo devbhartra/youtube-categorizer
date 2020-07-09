@@ -1,5 +1,5 @@
 import requests
-api_key = 'AIzaSyByN1vqZJbx5p6ZajwMFY-WEsuSVQE8J_w'
+api_key = '<PLEASE ENTER YOUR API KEY HERE>'
 DEVELOPER_KEY = api_key
 # from apiclient.discovery import build
 
